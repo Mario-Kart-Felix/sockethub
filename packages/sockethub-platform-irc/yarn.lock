@@ -967,12 +967,12 @@ irc-socket@^3.0.8:
     bluebird "^3"
     r-result "^1.4.0"
 
-irc2as@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/irc2as/-/irc2as-3.0.1.tgz#76bc1a53883a21f53813c8c6ea2b8c454a87956e"
-  integrity sha512-oyApv4TIDohY0mgCXMlMSrt9YhRci5NxljENHD4+hJbGEqccyHRbJ6VDSJlqUmx2Tw0jqx/q5no21r1ulYHJJQ==
+irc2as@^3.0.2:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/irc2as/-/irc2as-3.0.4.tgz#d196a3ea2034d6b04a71c2f230753cd9505c7e07"
+  integrity sha512-Wfcheb+KZDwnWnlanDThk3mxR3ukmEWhcPKdI27zmoxTs+V9C7zN76DCG30W0u7OvyUmWbKBx8N3G/tLD4slAQ==
   dependencies:
-    debug "^4.1.1"
+    debug "^4.3.1"
     fast-deep-equal "^3.1.1"
 
 is-extglob@^2.1.1:
@@ -1189,9 +1189,9 @@ lodash.pick@^4.4.0:
   integrity sha1-UvBWEP/53tQiYRRB7R/BI6AwAbM=
 
 lodash@^4.17.14, lodash@^4.17.19:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 make-dir@^3.0.0:
   version "3.1.0"
